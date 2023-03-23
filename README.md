@@ -1,4 +1,4 @@
-### Oi pessoa, 
+### Oi pessoa, aqui vai um pouquinho sobre mim 😁
 - 🌱Sou estudante de Análise e desenvolvimento de sistemas 3/4;
 - 🔭Fascinada por programação;
 - 👯 Quanto a idiomas, tenho conhecimento de 3 outros além da minha lingua materna ( inglês - avançado, espanhol - intermediario e alemão - iniciante);
