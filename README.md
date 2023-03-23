@@ -11,8 +11,9 @@
 <p align="left">  
     <a href="https://www.linkedin.com/in/jordane-padilha-641719245/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
     </a>
+      <a href="shiro#3760"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="32" height="32" />
+    </a>shiro#3760
  
-    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
     
 ### Um pouco das tecnologias que estou aprendendo ou tenho interesse
  
@@ -32,4 +33,6 @@
   <img align="center" alt="React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="C#" height="30" width="80" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Wordpress" height="30" width="80" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</div>
+  <img align="center" alt"Ruby" height="30' width="80" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img align="center" alt"Node.js" height="30' width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">           <img align="center" alt"Typescript" height="30' width="80" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">   <img align="center" alt"C++" height="30' width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">               <img align="center" alt"jAVA" height="30' width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">                 <img align="center" alt"MYSQL" height="30' width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">                 <img align="center" alt"Angular" height="30' width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor">                                                                                                                                                    
+</di>
