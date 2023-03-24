@@ -6,7 +6,7 @@
 - 💬 Irei sempre postar meus projetos desde os mais básicos;
 - 📫padilhajordane@gmail.com
 - 😄 Pronouns: ela/dela | she/her
-- ⚡Costumo ser sociável, se precisar de algo ou quiser conversar sobre algo que postei estou aberta a interações;
+- ⚡Costumo ser sociável, se precisar de algo ou quiser conversar sobre algo que postei estou aberta a interações. Podem me chamar no email, linkedin ou discord;
 ### Minhas Redes Sociais
 <p align="left">  
     <a href="https://www.linkedin.com/in/jordane-padilha-641719245/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
