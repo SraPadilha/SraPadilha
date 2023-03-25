@@ -1,7 +1,7 @@
 ### Oi pessoa, aqui vai um pouquinho sobre mim 😁
 - 🌱Sou estudante de Análise e desenvolvimento de sistemas 3/4;
 - 🔭Fascinada por programação;
-- 👯 Quanto a idiomas, tenho conhecimento de 3 outros além da minha lingua materna ( inglês - avançado, espanhol - intermediario e alemão - iniciante);
+- 👯 Quanto a idiomas, tenho conhecimento em 3 outros além da minha lingua materna ( inglês - avançado, espanhol - intermediario e alemão - iniciante);
 - 🤔 Estou sempre interessasda em aprender alguma linguagem nova ou em ideias novas;
 - 💬 Irei sempre postar meus projetos desde os mais básicos;
 - 📫padilhajordane@gmail.com
