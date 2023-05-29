@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/jordane-padilha-641719245/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
     </a>
       <a href="shiro#3760"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="90" height="32" />
-    </a>shiro#3760
+    </a>Shiro#3760
  
     
 ### Um pouco das tecnologias que estou aprendendo ou tenho interesse
