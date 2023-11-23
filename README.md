@@ -1,5 +1,5 @@
 ### Oi pessoa, aqui vai um pouquinho sobre mim 😁
-- 🌱Sou estudante de Análise e desenvolvimento de sistemas;
+- 🌱Sou estudante de Análise e desenvolvimento de sistemas e Redes de Computadores;
 - 🔭Fascinada por programação;
 - 👯 Quanto a idiomas, tenho conhecimento em 3 outros além da minha lingua materna, que é o português,( inglês - avançado, espanhol - intermediario e alemão - iniciante);
 - 🤔 Estou sempre interessada em aprender alguma linguagem nova ou em ideias novas;
@@ -9,7 +9,7 @@
 - ⚡Costumo ser sociável, se precisar de algo ou quiser conversar sobre algo que postei estou aberta a interações. Podem me chamar no e-mail, linkedin ou discord;
 ### Minhas Redes Sociais
 <p align="left">  
-    <a href="https://www.linkedin.com/in/jordane-padilha-641719245/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
+    <a href="https://www.linkedin.com/in/jordane-padilha-641719245/"><img src="https://www.linkedin.com/in/jordane-padilha-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-641719245/" width="32" height="32" />
     </a>
       <a href="shiro#3760"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="90" height="32" />
     </a>Shiro#3760
