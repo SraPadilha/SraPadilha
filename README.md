@@ -49,7 +49,7 @@
   <img align="center" alt"androidstudio" height="30' width="80" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
   <img align="center" alt"androidstudio" height="30' width="80" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
 
-  ##Para saber mais, é só acessar meu linkedin ou vizualizar meu currículo!
+ ## Para saber mais, é só acessar meu linkedin ou vizualizar meu currículo!
   
   <a href="https://srapadilha.github.io/Portfolio/ "> <img align="center" alt="Linkedin" height="30" width="80" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"> </a>
   
