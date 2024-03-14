@@ -51,7 +51,7 @@
 
  ## Para saber mais, é só acessar meu linkedin ou vizualizar meu currículo!
   
-  <a href="https://srapadilha.github.io/Portfolio/ "> <img align="center" alt="Linkedin" height="30" width="80" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"> </a>
+  <a href="https://srapadilha.github.io/Portfolio/ "> <img align="center" alt="Linkedin" height="40" width="100" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"> </a>
   
 **  OBS.: O portfolio não foi feito usando o bootstrap então esta quebrando em algumas telas, estou corrigindo aos poucos cada tela.**
 </di>
