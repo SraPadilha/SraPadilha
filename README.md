@@ -10,8 +10,7 @@
 ## Minhas Redes Sociais
 <p align="left">  
   <a href=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img align="center" alt="Linkedin" height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> </a>
-  <img align="center" alt="discord" height="30" width="80" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" width=e"> => Shiro#3760 | shiro0601
-
+  <img align="center" alt="discord" height="30" width="80" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" width=e">
 ## Um pouco das tecnologias que sei e tenho interesse:
 
  <div style="display: inline_block"><br>
