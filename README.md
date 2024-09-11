@@ -1,9 +1,8 @@
 ## Oi pessoa, aqui vai um pouquinho sobre mim 😁
-- 🌱Sou estudante de Análise e desenvolvimento de sistemas e Redes de Computadores;
+- 🌱Sou formada em Análise e desenvolvimento de sistemas e estudo Redes de Computadores;
 - 🔭Fascinada por programação;
-- 👯 Quanto a idiomas, tenho conhecimento em 3 outros além da minha lingua materna, que é o português,( inglês - avançado, espanhol - intermediario e alemão - iniciante);
-- 🤔 Estou sempre interessada em aprender alguma linguagem nova ou em ideias novas;
-- 💬 Irei sempre postar meus projetos desde os mais básicos;
+- 👯 Quanto a idiomas, tenho conhecimento em 4 outros além da minha lingua materna, que é o português,( inglês - avançado, espanhol - intermediario, alemão - iniciante e Japonês - iniciante );
+- 🤔 Estou sempre interessada em aprender coisas novas;
 - 📫padilhajordane@gmail.com
 - 😄 Pronouns: ela/dela | she/her
 - ⚡Costumo ser sociável, se precisar de algo ou quiser conversar sobre algo que postei estou aberta a interações. Podem me chamar no e-mail, linkedin ou discord;
